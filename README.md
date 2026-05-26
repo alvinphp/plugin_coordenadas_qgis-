@@ -36,23 +36,7 @@ El plugin permite buscar coordenadas y enfocar automáticamente el mapa en la ub
 
 ---
 
-# Estructura del proyecto
 
-```plaintext
-MapFocus/
-│
-├── __init__.py
-├── metadata.txt
-├── mapfocus.py
-├── mapfocus_dialog.py
-├── mapfocus_dialog_base.ui
-├── resources.py
-├── resources.qrc
-├── icon.png
-└── README.md
-```
-
----
 
 # Funcionamiento
 
