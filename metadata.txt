@@ -1,0 +1,7 @@
+[general]
+name=coordenada
+description=Plugin que muestra las coordenadas de un lugar 
+version=1.0
+qgisMinimumVersion=3.0
+author=Alvin Gil
+email=alvingil86@gmail.com
